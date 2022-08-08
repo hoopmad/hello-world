@@ -1,5 +1,6 @@
 # 틱택토 게임 Python 3.x
 # v1
+# github 테스트!
 
 import random
 
